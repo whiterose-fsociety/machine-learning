@@ -1,0 +1,34 @@
+Machine Learning
+
+1858893 – Molefe Molefe
+..... - Shameel Motaung
+... - Siraj Motaung
+
+
+Algorithms:
+    • Random Forests
+    • K-Nearest Neighbours
+    • Naive Bayes
+
+Random Forest
+	Step One
+    • Create python file 
+    • Create python dataset from Rajin example
+    • Create a bootstrap method
+      
+
+
+My To-Do List:
+    • Finish python course tutorial on decision trees for Random Forests.
+    • Write own code and algorithm
+
+
+List of helpful resources
+    • Ranji Raj
+        ◦ https://www.youtube.com/watch?v=p2arCEdJ8Fk
+    • Siraj Raval
+        ◦ https://github.com/llSourcell/random_forests/blob/master/Random%20Forests%20.ipynb
+        ◦ use as check for the correct answers
+    • Python Course
+        ◦ https://www.python-course.eu/Random_Forests.php
+        ◦ 
