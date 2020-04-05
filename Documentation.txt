@@ -29,6 +29,5 @@ List of helpful resources
     • Siraj Raval
         ◦ https://github.com/llSourcell/random_forests/blob/master/Random%20Forests%20.ipynb
         ◦ use as check for the correct answers
-    • Python Course
-        ◦ https://www.python-course.eu/Random_Forests.php
-        ◦ 
+
+      
