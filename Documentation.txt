@@ -10,17 +10,39 @@ Algorithms:
     • K-Nearest Neighbours
     • Naive Bayes
 
-Random Forest
-	Step One
-    • Create python file 
-    • Create python dataset from Rajin example
-    • Create a bootstrap method
-      
+Random Forest:
+
+    • Bagging
+        ◦ Bootstrap
+            ▪ Produce Bootstrap Dataset(Done)
+                • Produce a random forest function than returns lots
+            ▪ Bootstrap aggregration
+    • Create method that returns lots of trees(Done)
+    • Algorithm
+        ◦ Learn algorithm (Trace)
+            ▪ Model Function
+                • Decision Tree
+                    ◦ ID3
+                        ▪ Entropy function(Done)
+                        ▪ Info gain function(Done)
 
 
-My To-Do List:
-    • Finish python course tutorial on decision trees for Random Forests.
-    • Write own code and algorithm
+Jobs to do:
+   - ID3 Algorithm
+   - Create Decision Tree
+   - Implement on Random Forest
+
+
+Jobs Completed:
+
+    • Entropy Function
+    • Bootstrap Function
+    • Random Forest
+        ◦ Bootstrap many trees
+    • Information Gain Function
+        ◦ Find Feature with highest gain
+
+
 
 
 List of helpful resources
