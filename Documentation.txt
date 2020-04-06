@@ -28,13 +28,12 @@ Random Forest:
 
 
 Jobs to do:
-   - ID3 Algorithm
-   - Create Decision Tree
    - Implement on Random Forest
 
 
 Jobs Completed:
-
+    + Decision Tree
+    + ID3
     • Entropy Function
     • Bootstrap Function
     • Random Forest
