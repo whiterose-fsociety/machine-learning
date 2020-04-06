@@ -9,9 +9,9 @@ Supervised Machine Learning Algorithms to classify datasets
 
 ## Install Dependencies and modules
 
- $ pip3 install numpy
+  `pip3 install numpy`
  
- $ pip3 install pandas
+  `pip3 install pandas`
 
 # Random Forests
 
@@ -30,12 +30,12 @@ The Random Forrest approach is based on two concepts, called bagging and subspac
 ### Bootstrap aggregration.
 Technique that combines the predictions from multiple machine learning algoritms together to make more accurate predictions than any individual model.
 	How:
-    • Create datasets of the same length with replacement
-    • Train a model on each one
-    • Take majority prediction model for unseen query
-    • We take the mean or median for regression tree models 
-        ◦ Mode – Classification trees
-        ◦ Mean – Regression Trees
+    1. Create datasets of the same length with replacement
+    2. Train a model on each one
+    3. Take majority prediction model for unseen query
+    4.  We take the mean or median for regression tree models 
+        *  Mode – Classification trees
+        *  Mean – Regression Trees
 
 
 
