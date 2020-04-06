@@ -38,7 +38,9 @@ Technique that combines the predictions from multiple machine learning algoritms
 # Credits
 https://python-course.eu/Random_Forests.php
 
-![Progress][progress.jpg]
+Progress:
+![alt text][progress]
+[progress]: https://github.com/whiterose-fsociety/machine-learning/blob/version_1/progress.jpg "progress"
 
 
 StatsQuest
