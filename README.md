@@ -38,6 +38,8 @@ Technique that combines the predictions from multiple machine learning algoritms
 # Credits
 https://python-course.eu/Random_Forests.php
 
-["Supervised Learning".jpg]
+![Progress]["Supervised Learning".jpg]
+
+
 StatsQuest
 https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
