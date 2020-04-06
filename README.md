@@ -1,4 +1,4 @@
-Inline-style: 
+Supervised Learning Progression
 ![alt text](https://github.com/whiterose-fsociety/machine-learning/blob/version_1/progress.jpg "progress")
 
 
