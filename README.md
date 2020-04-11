@@ -1,5 +1,5 @@
 Supervised Learning Progression
-![alt text](https://github.com/whiterose-fsociety/machine-learning/blob/version_1/progress.jpg "progress")
+![Progress](https://github.com/whiterose-fsociety/machine-learning/blob/version_1/progress.jpg "progress")
 
 
 # machine-learning
@@ -12,6 +12,12 @@ Supervised Machine Learning Algorithms to classify datasets
   `pip3 install numpy`
  
   `pip3 install pandas`
+  
+  `pip3 install nested_lookup`
+  
+  `pip3 install statistics`
+  
+  `pip3 install seaborn`
 
 # Random Forests
 
