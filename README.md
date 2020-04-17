@@ -2,6 +2,10 @@ Supervised Learning Progression
 ![Progress](https://github.com/whiterose-fsociety/machine-learning/blob/version_1/progress.jpg "progress")
 
 
+Phases of Machine Learning Assignment
+![Progress](https://github.com/whiterose-fsociety/machine-learning/blob/version_1/Phases.png "Phases")
+
+
 # machine-learning
 Supervised Machine Learning Algorithms to classify datasets
 
