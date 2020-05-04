@@ -3,7 +3,7 @@ Supervised Learning Progression
 
 
 Phases of Machine Learning Assignment
-![Progress](https://github.com/whiterose-fsociety/machine-learning/blob/version_1/Phases.png "Phases")
+![Progress](https://github.com/whiterose-fsociety/machine-learning/blob/version_1/phase.png "Phases")
 
 
 # machine-learning
