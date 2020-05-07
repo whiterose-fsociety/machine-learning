@@ -54,9 +54,9 @@ Technique that combines the predictions from multiple machine learning algoritms
 >
 > Email: 1858893@students.wits.ac.za
 >
->https://python-course.eu/Random_Forests.php
 
-
+Python Course
+https://python-course.eu/Random_Forests.php
 
 StatsQuest
 https://www.youtube.com/watch?v=J4Wdy0Wc_xQ
