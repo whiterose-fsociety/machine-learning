@@ -1,0 +1,13 @@
+Goal:
+
+        ◦ Dataset Exploration
+            ▪ Load Values
+            ▪ Create Relevant Classes 
+            ▪ Create Environment
+        ◦ Exploratory Data Analysis
+            ▪ Data Analysis
+            ▪ Data Visualisations
+            ▪ Feature Engineering
+            ▪ Feature Selection & PCA
+            
+New Findings:
