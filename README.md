@@ -3,7 +3,7 @@ Supervised Learning Progression
 
 
 Phases of Machine Learning Assignment
-![Progress](https://github.com/whiterose-fsociety/machine-learning/blob/version_1/phase.png "Phases")
+![Progress](https://github.com/whiterose-fsociety/machine-learning/blob/version_1/Phases.png "Phases")
 
 
 # machine-learning
@@ -49,14 +49,10 @@ Technique that combines the predictions from multiple machine learning algoritms
 
 
 
-# Credits : Soon to be updated...
-> Please report any credits that I may have missed. Thanks :D
->
-> Email: 1858893@students.wits.ac.za
->
-
-Python Course
+# Credits
 https://python-course.eu/Random_Forests.php
+
+
 
 StatsQuest
 https://www.youtube.com/watch?v=J4Wdy0Wc_xQ

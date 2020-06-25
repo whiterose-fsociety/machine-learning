@@ -1,0 +1,54 @@
+Machine Learning
+
+1858893 – Molefe Molefe
+1814731 - Shameel Nkosi
+1390537 - Siraj Motaung
+
+
+Algorithms:
+    • Random Forests
+    • Support Vector Machines
+    • Naive Bayes
+
+Random Forest:
+
+    • Bagging
+        ◦ Bootstrap
+            ▪ Produce Bootstrap Dataset(Done)
+                • Produce a random forest function than returns lots
+            ▪ Bootstrap aggregration
+    • Create method that returns lots of trees(Done)
+    • Algorithm
+        ◦ Learn algorithm (Trace)
+            ▪ Model Function
+                • Decision Tree
+                    ◦ ID3
+                        ▪ Entropy function(Done)
+                        ▪ Info gain function(Done)
+
+
+Jobs to do:
+   - Implement on Random Forest
+
+
+Jobs Completed:
+    + Decision Tree
+    + ID3
+    • Entropy Function
+    • Bootstrap Function
+    • Random Forest
+        ◦ Bootstrap many trees
+    • Information Gain Function
+        ◦ Find Feature with highest gain
+
+
+
+
+List of helpful resources
+    • Ranji Raj
+        ◦ https://www.youtube.com/watch?v=p2arCEdJ8Fk
+    • Siraj Raval
+        ◦ https://github.com/llSourcell/random_forests/blob/master/Random%20Forests%20.ipynb
+        ◦ use as check for the correct answers
+
+      
